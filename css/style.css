@@ -213,8 +213,9 @@ ul.nav.navbar-nav li a:hover {
 	    text-shadow: 3px 3px 3px rgb(23, 22, 22);
 }
 .banner_agile-info p {
-    font-size: 1em;
-    color: #fc3158;
+    font-size: 3em;
+	color: #fc3158;
+	/* color : #ffffff; */
     letter-spacing: 10px;
         margin: 1em 0 2em 0;
 	    text-shadow: 3px 3px 3px rgb(23, 22, 22);
